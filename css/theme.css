@@ -1,9 +1,11 @@
 :root {
-  --r-primary : #ff5555;
-  --r-background  :#282a36;
-  --r-font  :#f8f8f2;
+  --r-primary : #5F4E2F;
+  --r-background  :#BA817D;
+  --r-font  :#ffffff;
+  --r-focus   : #5E3B49;
   --r-font2   : var(--r-primary);
   --r-icons : var(--r-primary);
-  --r-focus   : #d5654d;
   --r-border        : var(--r-primary);
+  /* "#5E3B49", "#9B5F6B", "#BA817D", "#325731", "#6A9741", "#5F4E2F" */
+
 }
