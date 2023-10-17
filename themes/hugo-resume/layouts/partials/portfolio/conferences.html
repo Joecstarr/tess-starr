@@ -6,7 +6,9 @@
                 <div class="resume-content mr-auto">
                   <h3 class="mb-0">{{ .conference | markdownify }}</h3>
                   <div class="subheading mb-3">{{ .years }}</div>
-                  <p>{{ .info | markdownify }}
+                  <p>
+                    {{ .info | plainify | markdownify }}
+                 </p>
                 </div>
               </div>
               {{ end }}

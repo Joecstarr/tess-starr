@@ -1,0 +1,33 @@
+---
+- role: Research Assistant
+  company: TAP Lab, Michigan State University
+  summary: |-
+    - Creating graphs for data using excel.
+    - Analyzing data using SPSS, MATLAB, E-Prime and Excel.
+    - Creating Qualtrics surveys.
+    - Participating in weekly lab meetings.
+    - Run humans in experiments in lab.
+  range: May 2022-Present
+- role: Student Associate
+  company: Mike Curb Institute
+  summary: |-
+    - Working to facilitate Curb projects in all areas.
+    - Leading planning teams for Curb events.
+    - Working as a bridge between Curb fellows and faculty advisors.
+  range: August 2023 - Present
+- role: Student Fellow
+  company: Mike Curb Institute
+  summary: |-
+    - Worked as a team lead for the recording team.
+    - Scheduled and ran team meetings.
+    - Planned recording sessions.
+    - Created scheduling system for Curb recording studio.
+    - Ran live and recorded sound.
+  range: September 2021 - August 2023
+- role: Musician, Composer, Producer
+  company: '"Tess Starr"'
+  summary: |-
+    - Arrange, produce and record original music.
+    - Collaborate with other musicians on projects.
+    - Manage merchandise.
+  range: 2019-Present

@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-In dolor dolor, eleifend at leo a, viverra convallis risus. Aliquam eu leo diam. Vivamus at urna dignissim, venenatis dolor ut, laoreet elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I am a senior at Rhodes College pursuing a B.A. in Music and Psychology. My research interests include understanding the ways in which humans perceive, learn, and remember the sounds in their environment.

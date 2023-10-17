@@ -1,37 +1,40 @@
 languageCode = "en-us"
 theme = "hugo-resume"
 
-title = "Pythagoras of Samos"
-baseURL = "https://personal.mathgradboard.com/"
+title = "Tess Starr"
+baseURL = "https://tess-starr.com/"
 
 [params]
-address = "Metapontum Village, Italy"
-email = "Pythagoras@mathgradboard.com"
+address = "Memphis, TN"
+email = "tess@tess-starr.com"
 favicon = "/icon/favicon.ico"
-firstName = "Pythagoras"
-lastName = "of Samos"
-phone = "1-555-555-5555"
-profileImage = "images/Pythagoras.jpeg"
+firstName = "Tess"
+lastName = "Starr"
+phone = ""
+profileImage = "images/zion.jpg"
 
 showEducation = true
-showTeaching = true
+showTeaching = false
 showConferences = true
-showExperience = false
+showExperience = true
 showOpenSource = false
 showProjects = false
-showPublications = true
+showPublications = false
 showQr = false
 showSkills = false
 showCertifications = false
-showBlog = true
+showBlog = false
 
 [[params.handles]]
 link = "https://www.linkedin.com/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/uiowa-mgb"
+link = "https://github.com/Star1267"
 name = "GitHub"
+[[params.handles]]
+link = "https://tess-starr.bandcamp.com/"
+name = "bandcamp"
 
 # Add as many as you like. So long as the name is found on this list
 # https://fontawesome.com/v4/icons/#brand
